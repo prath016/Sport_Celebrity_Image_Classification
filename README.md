@@ -1,0 +1,2 @@
+# Sport_Celebrity_Image_Classification
+Sport_Celebrity_Person_Image_Classification Project Using SVM Model
